@@ -4,3 +4,6 @@
 <p align="center">
 can tardigrades survive in space?
 </p>
+<p align="center">
+tardigrades may occasionally be spotted on <a href="https://discord.gg/KsBnJJ6T">discord</a>
+</p>
